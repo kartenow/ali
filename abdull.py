@@ -84,7 +84,7 @@ def menu():
     time.sleep(0.05)
     print("\033[1;41m2\033[1;37m       Stop Process Press CTRL + z        \033[1;0m")
     time.sleep(0.05)
-    print("\033[1;41m3\033[1;37m         Type python2 Cloning.py          \033[1;0m")
+    print("\033[1;41m3\033[1;37m         Type python2 alizada.py          \033[1;0m")
     time.sleep(0.05)
     print("\033[1;96m[1]  Install With Out Fb Id  Tool      ●")
     time.sleep(0.05)
